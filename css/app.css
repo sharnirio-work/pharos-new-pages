@@ -28491,7 +28491,9 @@ html .mktoForm div.mktoFormRow:nth-last-of-type(2) > div:nth-of-type(2) {
   height: 100%;
 }
 .hero-authors-block .gradient-marigold-yellow {
-  background: radial-gradient(158.02% 106.26% at 4.97% 88.34%, #FFF9EA 0%, rgba(254, 249, 233, 0) 100%);
+  background-image: url("data:image/svg+xml,%3Csvg width='1414' height='1713' viewBox='0 0 1414 1713' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='1414' y='1713' width='1440' height='1713' transform='rotate(-180 1414 1713)' fill='url(%23paint0_radial_4219_2480)'/%3E%3Cdefs%3E%3CradialGradient id='paint0_radial_4219_2480' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(1485.5 3226.19) rotate(-26.2542) scale(1576.09 2438.35)'%3E%3Cstop stop-color='%23FFF9EA'/%3E%3Cstop offset='1' stop-color='%23FEF9E9' stop-opacity='0'/%3E%3C/radialGradient%3E%3C/defs%3E%3C/svg%3E%0A");
+  background-size: 100% auto;
+  background-position: top center;
 }
 .hero-authors-block .centered-with-image-heading {
   max-width: 1050px;
